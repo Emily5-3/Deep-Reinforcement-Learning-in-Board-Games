@@ -1,1 +1,1 @@
-
+In a group of four, I contributed to building and training a neural network designed to master tic-tac-toe and connect four. We used multiple strategies, including defensive training, self play, and mixed refinement, to train a model that achieved win rates on par with academic literature. 
